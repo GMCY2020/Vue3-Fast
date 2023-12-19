@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "Vue.volar",                          // vue
+    "Vue.vscode-typescript-vue-plugin",   // vue
+    "dbaeumer.vscode-eslint",             // Eslint
+    "esbenp.prettier-vscode"              // 存储
+  ]
+}
