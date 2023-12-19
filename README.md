@@ -10,10 +10,6 @@
 
 - 该项目用于 vue3的快速使用
 
-## 2. 推荐的IDE设置
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (并禁用Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
 ## 3. 环境
 
 编辑器
