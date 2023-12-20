@@ -3,6 +3,7 @@
 ## 1. 基本信息
 
 - 作者: GMCY
+- 仓库: [GitHub](https://github.com/GMCY2020/Vue3-Fast) | [Gitee](https://gitee.com/GMCY2020/Vue3-Fast)
 - 话题(GitHub): [template](https://github.com/topics/template) \ [vue3](https://github.com/topics/vue3)
 - 创建时间: 2023/12/16
 
