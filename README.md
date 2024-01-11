@@ -51,4 +51,4 @@ pnpm build
 ![框架](docs/md-01.png)
 
 登录
-![登录](docs/md-01.png)
+![登录](docs/md-02.png)
